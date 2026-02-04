@@ -95,4 +95,11 @@ These visualizations help users easily understand their health status.
 - Low-cost, accessible, and easy to deploy
 
 ---
+## 🎥 Demo & Preview
+
+### 📸 Application Screenshot
+![App Screenshot](Assets/preview.png)
+
+### 🎬 Demo Video
+▶️ [Click here to watch the demo video](Assets/REC-20260204153617.mp4)
 
